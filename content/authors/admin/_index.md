@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Borja Sanz
+title: Borja Sanz Urquijo
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Programing and A.I.
 
 # Organizations/Affiliations
 organizations:
-- name: UNiversity of Deusto
+- name: University of Deusto
   url: "https://www.deusto.es"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning, natural language processing and FATE.
 
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
+- Fariness, Accountability, Transparency, Ethics
 
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
+    institution: University of Deusto
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: MEng in Information Security
+    institution: University of Deusto
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: BSc in Computer Science
+    institution: University of Deusto
     year: 2008
 
 # Social/Academic Networking
@@ -54,6 +55,13 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/bosanz
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-2039-7773
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Borja_Sanz
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv

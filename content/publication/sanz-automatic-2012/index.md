@@ -1,0 +1,13 @@
+---
+title: "On the Automatic Categorisation of Android Applications"
+date: 2012-01-01
+publishDate: 2020-06-11T11:55:59.641626Z
+authors: ["Borja Sanz", "Igor Santos", "Carlos Laorden", "Xabier Ugarte Pedrero", "Pablo García Bringas"]
+publication_types: ["1"]
+abstract: "The presence of mobile devices has increased in our lives offering almost the same functionality as a personal computer. Android devices have appeared lately and, since then, the number of applications available for this operating system have increased exponentially. Google already has its Android Market where applications are offered and, as happens with every popular media, is prone to misuse. A malware writer may insert a malicious application into this market without being noticed. Indeed, there are already several cases of Android malware within the Android Market. Therefore, an approach that can automatically characterise the different types of applications can be helpful for both organising the Android Market and detecting fraudulent or malicious applications. In this paper, we propose a new method for categorising Android applications through machine-learning techniques. To represent each application, our method extracts different feature sets: (i) the frequency of occurrence of the printable strings, (ii) the different permissions of the application itself and (iii) the permissions of the application extracted from the Android Market. We evaluate this approach of automatically categorisation of Android applications and show that achieves a high performance."
+featured: false
+publication: "*9th IEEE Consumer Communications and Networking Conference(CCNC2012)*"
+tags: ["fraud", "invasive software", "mobile computing", "operating systems (computers)", "search engines", "smart phones", "machine learning"]
+doi: "10.1109/CCNC.2012.6181075"
+---
+
