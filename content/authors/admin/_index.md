@@ -33,10 +33,10 @@ education:
     year: 2012
   - course: MEng in Information Security
     institution: University of Deusto
-    year: 2009
-  - course: BSc in Computer Science
+    year: 2011
+  - course: Computer Science Engineering
     institution: University of Deusto
-    year: 2008
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
