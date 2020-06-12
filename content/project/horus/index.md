@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "HORNOS DE RECALENTAMIENTO INTELIGENTES PARA PROCESOS SIDERURGICOS COMPETITIVOS Y SOSTENIBLES"
+title: "Horus"
 summary: ""
 authors: []
 tags: ["National"]
-categories: ["National"]
-date: 2020-06-12T00:03:42+02:00
+categories: []
+date: 2020-06-12T14:15:40+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: ""
+url_pdf: "https://www.sidenor.com/wp-content/uploads/2017/06/SID_WP_69_PROYECTO_HORUS_0518_ES.pdf"
 url_slides: ""
 url_video: ""
 
@@ -39,3 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+The project HORUS gathers three of the most outstanding companies in Spain’s steel sector, members of the Spanish technological steel platform, PLATEA (Sidenor, Acerinox and ArcelorMittal), which share the general objective
+of developing innovative technology solutions aiming at improving productivity, the efficiency of energy resources as well as the sustainability of processes.
+These developments will be applied to one of the most energy-consuming steel processes: the reheating of the semi-product before hot rolling.

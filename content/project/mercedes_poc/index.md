@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "PRODEC: Industrial PROduct Configuration DECission Support System"
+title: "Proof of Concept: Mercedes Painting process"
 summary: ""
 authors: []
-tags: ["Regional"]
+tags: ["Other"]
 categories: []
-date: 2020-06-12T14:04:37+02:00
+date: 2020-06-12T14:04:24+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -40,4 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-In collaboration with [Semantic Systems](https://www.semantic-systems.com/), we are working in the project PRODEC. The objective of the PRODEC project is to investigate and develop a system that speeds up product configuration times (oriented to users without high qualification), based on the experience of previous configurations.
+We collaborate with Mercedes Benz in the Vitoria-Gazteiz factory to help them to improve the painting process using advance data analitycs and machine learning algorithms.

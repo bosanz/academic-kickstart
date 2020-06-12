@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "BEHAVE: DISEÑO Y DESARROLLO DE UN SISTEMA BIG DATA DE CLASIFICACIÓN AUTOMÁTICA DE LA HABILIDAD DE LOS USUARIOS."
+title: "BEHAVE: Diseño y desarrollo de un sistema capaz de identificar y categorizar en tiempo real el comportamiento de las personas para detectar posibles usos compulsivos o inadecuados."
 summary: ""
 authors: []
 tags: ["Regional"]
-categories: ["Regional"]
-date: 2020-06-12T00:03:46+02:00
+categories: []
+date: 2020-06-12T16:27:43+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+We are collaborating with [Dr. Ana Estevez](https://sites.google.com/a/deusto.es/ana-estevez/) and [Dr. Paula Jauregui](https://www.deusto.es/cs/Satellite/deusto/es/universidad-deusto/sobre-deusto-0/deusto-quienes-somos/profesores/12395/profesor), from the [Faculty of Psycology and Education](https://psicologiayeducacion.deusto.es/cs/Satellite/psicologiayeducacion/en/faculty-of-psychology-and-education?cambioidioma=si) of the [University of Deusto](https://www.deusto.es), and with [RETABet Group](https://www.retabet.es/#aboutSec) in order to try to identify gambling behaviours in their users.
