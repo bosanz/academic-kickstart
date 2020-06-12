@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "BEHAVE: Diseño y desarrollo de un sistema capaz de identificar y categorizar en tiempo real el comportamiento de las personas para detectar posibles usos compulsivos o inadecuados."
+title: "BEHAVE"
 summary: ""
 authors: []
 tags: ["Regional"]
@@ -40,4 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-We are collaborating with [Dr. Ana Estevez](https://sites.google.com/a/deusto.es/ana-estevez/) and [Dr. Paula Jauregui](https://www.deusto.es/cs/Satellite/deusto/es/universidad-deusto/sobre-deusto-0/deusto-quienes-somos/profesores/12395/profesor), from the [Faculty of Psycology and Education](https://psicologiayeducacion.deusto.es/cs/Satellite/psicologiayeducacion/en/faculty-of-psychology-and-education?cambioidioma=si) of the [University of Deusto](https://www.deusto.es), and with [RETABet Group](https://www.retabet.es/#aboutSec) in order to try to identify gambling behaviours in their users.
+In BEHAVE, we are collaborating with [Dr. Ana Estevez](https://sites.google.com/a/deusto.es/ana-estevez/) and [Dr. Paula Jauregui](https://www.deusto.es/cs/Satellite/deusto/es/universidad-deusto/sobre-deusto-0/deusto-quienes-somos/profesores/12395/profesor), from the [Faculty of Psycology and Education](https://psicologiayeducacion.deusto.es/cs/Satellite/psicologiayeducacion/en/faculty-of-psychology-and-education?cambioidioma=si) of the [University of Deusto](https://www.deusto.es), and with [RETABet Group](https://www.retabet.es/#aboutSec) in order to try to identify gambling behaviours in their users.
