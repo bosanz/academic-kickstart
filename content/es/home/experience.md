@@ -25,29 +25,29 @@ date_format = "02-01-2006"
   date_start = "2019-01-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Las responsabilidades incluyen:
   
-  * Teaching
-  * Research activities
-  * Management
+  * Docencia.
+  * Actividades de investigación.
+  * Gestión.
   """
 
 [[experience]]
-  title = "Associate Researcher"
+  title = "Investigador asociado"
   company = "DeustoTech"
   company_url = ""
   location = "Bilbao"
   date_start = "2017-01-01"
   date_end = "2018-12-31"
-  description = """Research activities."""
+  description = """Actividades de investigación."""
 
   [[experience]]
-  title = "Researcher"
+  title = "Investigador"
   company = "DeustoTech"
   company_url = ""
   location = "Bilbao"
   date_start = "2008-09-01"
   date_end = "2017-12-31"
-  description = """Research activities."""
+  description = """Actividades de investigación."""
 
 +++
