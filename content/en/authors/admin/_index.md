@@ -78,5 +78,4 @@ user_groups:
 - Visitors
 ---
 
-Dr. Borja Sanz Urquijo (male) is asociate proffesor of the Faculty of Engineering of the University of Deusto, and was the Head Researcher for DeustoTech Computing from 2015 to 2018. He received his PhD from the PhD program in Information Systems with full marks cum laude in 2012 in the topic of malware detection in Android mobile devices. His main research skills and interest include machine learning, big data, knowledge discovery and information retrieval.
-
+Dr. Borja Sanz Urquijo (male) is asociate proffesor of the Faculty of Engineering of the University of Deusto, and was the Head Researcher for DeustoTech Computing from 2015 to 2018. He received his PhD from the PhD program in Information Systems with full marks cum laude in 2012 in the topic of malware detection in Android mobile devices. My research interests are artificial intelligence and the impact it has on society. I seek to advance in the creation of more efficient, efficient and fair machine learning models.
